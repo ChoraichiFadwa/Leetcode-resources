@@ -7,7 +7,6 @@
 
 This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
-👉 If you want to master DSA patterns, checkout [AlgoMaster.io](https://algomaster.io)
 
 ## 💡 Tips
 - [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
