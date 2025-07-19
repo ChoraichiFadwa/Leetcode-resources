@@ -12,3 +12,5 @@ BEGIN ... END, DECLARE variables
 Cursors, Exceptions
 
 Stored Procedures (basic syntax)
+
+https://leetcode.com/studyplan/top-sql-50/
