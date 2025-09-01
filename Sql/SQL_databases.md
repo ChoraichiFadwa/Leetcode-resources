@@ -5,3 +5,5 @@ data engineers use sql to create and maintain databases while data scientists us
 the databse is made of many tables. The database schema governs how those tables are related.
 Several implementations of sql:
 MySQL Oracle SQLite Oracle SQL SQL Server
+columns rows == fields records
+DATABASE SCHEMA IS SO IMORTANT 

@@ -1,0 +1,2 @@
+multicloud increases security and governence issues. Instead of handling one provider, you need to manage the availability, security a,d integrity of 3 different cloud providers.over different platforms.
+Snowflake, founded in 2012, is disrupting the data warehouse industry and enjoyed a 174% revenue growth in 2019. That might be a name to remember!
