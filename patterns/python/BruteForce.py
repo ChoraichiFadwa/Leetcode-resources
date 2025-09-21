@@ -1,0 +1,1 @@
+# if n > 10 (5), brute force is not feasible
